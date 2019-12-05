@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FaceEMR</string>
+    <string name="make_guess">--------Make a Guess--------</string>
+    <string-array name="Guess">
+        <item>Angry</item>
+        <item>Disgust</item>
+        <item>Fear</item>
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Surprise</item>
+        <item>Neutral</item>
+    </string-array>
 </resources>
